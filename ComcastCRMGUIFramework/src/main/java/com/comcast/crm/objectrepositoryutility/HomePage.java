@@ -20,8 +20,16 @@ public class HomePage
 	
 	
 	
+	public WebElement getDoclink() {
+		return doclink;
+	}
+
 	@FindBy(linkText ="Contacts")
 	private WebElement contactlink;
+	
+	@FindBy(linkText = "Documents")
+	private WebElement doclink;
+	
 	
 	@FindBy(xpath="//img[@src=\"themes/softed/images/user.PNG\"]")
 	private WebElement adminimg;
