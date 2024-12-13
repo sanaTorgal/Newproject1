@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-12T10:36:55 EST" name="Default suite" finished-at="2024-12-12T10:36:55 EST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2024-12-12T10:36:55 EST" name="Default test" finished-at="2024-12-12T10:36:55 EST" duration-ms="40">
+      <class name="practice.testng.ExtentTest1">
+        <test-method signature="createDemoTest()[pri:0, instance:practice.testng.ExtentTest1@79e4c792]" started-at="2024-12-12T10:36:55 EST" name="createDemoTest" finished-at="2024-12-12T10:36:55 EST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDemoTest -->
+      </class> <!-- practice.testng.ExtentTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
