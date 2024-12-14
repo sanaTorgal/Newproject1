@@ -21,7 +21,7 @@ public class HomePage
 	
 	
 	public WebElement getDoclink() {
-		System.err.println("document");
+		System.err.println("document1");
 		System.out.println("hello");
 		return doclink;
 	}
